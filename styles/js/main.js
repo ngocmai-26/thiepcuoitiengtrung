@@ -311,12 +311,11 @@ function initTypingEffect() {
 }
 
 const musicList = [
-    'styles/mp3/Mình Cưới Nhau Đi.mp3',
-    'styles/mp3/Chăm Em Một Đời.mp3',
-    'styles/mp3/Bản Tình Ca Đầu Tiên (XHTDRLX2).mp3',
-    'styles/mp3/Em Đồng Ý (I Do).mp3',
-    'styles/mp3/Hơn Cả Yêu (Pro House).mp3',
-    'styles/mp3/Ngày Đầu Tiên.mp3'
+    'styles/mp3/M5000007lBIZ2zOpOz.mp3',
+    'styles/mp3/M500000oW8J53xPhZA.mp3',
+    'styles/mp3/M500001FRccd30czRE.mp3',
+    'styles/mp3/M5000037gYrR2BlNl4.mp3',
+    'styles/mp3/M500004ZZbOl3w7tag.mp3'
 ];
 
 let currentMusicIndex = 0;
